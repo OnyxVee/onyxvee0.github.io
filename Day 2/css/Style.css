@@ -1,0 +1,73 @@
+/* my first css*/
+
+body {
+    font-family:Arial, Helvetica, sans-serif;
+    color: rgb(205, 50, 109);
+    background-color: #ffffcc;
+    
+}
+cite {
+    color: black;
+    border: solid pink;
+}
+img {
+    border: 10px solid green;
+}
+h1 {
+    border: 5px dotted red;
+}
+ol {
+color: green;
+}
+ul a:link {
+    font-weight: bold;
+    text-decoration: none;
+    color: aquamarine;
+}
+a:visited {
+    color: green;
+    font-size: 2rem;
+    font-weight: normal;
+}
+a:hover {
+    color: orange;
+    text-decoration: underline;
+    background-color: white;
+}
+a.harvard:link {
+    color:maroon;
+}
+blockquote {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 3rem;
+    font-style: italic;
+    text-align: center;
+    background-image: url(https://place-puppy.com/300x300);
+    border: 3px dashed orange;
+}
+cite {
+    font-size: 1rem
+}
+.bigbold {
+    font-weight: bold;
+    font-size: 1.3rem
+}
+h2 {
+    font-size: 1.5rem;
+    font-style: italic;
+    color: blue;
+    text-align: center;
+    text-decoration: underline;
+    border: 3px dotted gold;
+}
+h3 {
+    color: red;
+    border: 3px dotted green;
+    text-align: center;
+}
+.background1 {
+    color: black;
+    background-color: brown;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
